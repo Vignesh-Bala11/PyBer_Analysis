@@ -12,6 +12,20 @@ There are 4 different areas of analysis needed to complete this project. These a
 4) Fares per City Type
 
     Overview of City Types:
+    The overview of the city types consists of a bubble chart highlighting the comparison of rides, drivers, and fares. Drivers are represented by the size of the bubbles, fares by the y axis, and rides by the x axis.
+
+    Rides per City Type:
+    Rides per city type is broken up into two different categories: rides per city by city type and total rides per city type.
+
+    Drivers Per City Type:
+    Drivers per city type is broken up into two different categories: drivers per city by city type and total drivers per city type.
+
+
+    Fares Per City Type:
+    Fares per city tpes is broken up into three different categories: average fares per city by city type, total fares per city type, and weekly totals per city type.
+
+
+
         
 ## Summary
 Based on the results listed above, I have come up with three different recommendations to address the disparities among the city types.
